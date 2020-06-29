@@ -1,0 +1,3 @@
+[submodule "InfectionModel"]
+	path = InfectionModel
+	url = https://github.com/sibyl-team/InfectionModel.git
