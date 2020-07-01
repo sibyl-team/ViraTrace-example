@@ -3,3 +3,5 @@
 To run:
 - Init git submodules `git submodule init`
 - Update submodules `git submodule update`
+
+- Run the code in `Results.ipynb`
